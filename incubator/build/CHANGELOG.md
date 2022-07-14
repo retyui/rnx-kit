@@ -1,5 +1,11 @@
 # @rnx-kit/build
 
+## 0.2.1
+
+### Patch Changes
+
+- a99b7969: Added support for distributing builds via [Firebase App Distribution](https://firebase.google.com/products/app-distribution)
+
 ## 0.2.0
 
 ### Minor Changes
